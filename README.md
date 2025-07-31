@@ -2,6 +2,11 @@
 
 ASCII, stands for American Standard Code for Information Interchange. It is a 7-bit character code where each individual bit represents a unique character. This page shows the extended ASCII table which is based on the Windows-1252 character set which is an 8 bit ASCII table with 256 characters and symbols. It includes all ASCII codes from standard ASCII, and it is a superset of ISO 8859-1 in terms of printable characters. In the range 128 to 159 (hex 80 to 9F), ISO/IEC 8859-1 has invisible control characters, while Windows-1252 has writable characters. Windows-1252 is probably the most-used 8-bit character encoding in the world.
 
+
+![ASCii Table](https://github.com/user-attachments/assets/700c8ea6-5a90-4814-a9fe-7e1c2f5c9616)
+
+
+
 ASCII control characters (character code 0-31)
 The first 32 characters in the ASCII-table are unprintable control codes and are used to control peripherals such as printers.
 
