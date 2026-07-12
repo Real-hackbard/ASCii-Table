@@ -36,3 +36,14 @@ Our ASCII table also includes columns for symbol, HTML number, and HTML entities
 The description column provides additional context and information about each character, making it a valuable resource for designers and typographers. With our ASCII table, you'll have all the information you need at your fingertips, in a user-friendly format that's easy to understand and use.
 
 Overall, the ASCII table on ascii-code.com is the ultimate resource for anyone working with text-based communication and computing. Its comprehensive and well-structured format ensures compatibility and consistency across different systems and applications.
+
+# ANSI
+The ANSI set of 217 characters, also known as Windows-1252, was the standard for the core fonts supplied with US versions of Microsoft Windows up to and including Windows 95 and Windows NT 4. During the lifetime of those two products, Microsoft added the euro currency symbol bringing the number of characters to 218, and introduced a new core set of Pan-European fonts containing the [WGL4](https://www.alanwood.net/demos/wgl4.html) (Windows Glyph List 4) character set, with 652 characters.
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/22a2c499-a205-4497-95d7-bae9b34e5db3" />
+
+</br>
+
+If you use an old, non-Unicode version of Windows that was designed for a [non-Latin alphabet](https://www.alanwood.net/demos/ansi.html#nonlatin) such as Arabic, Cyrillic, Greek, Hebrew or Thai to view a document that has been typed using the ANSI character set, then characters from these languages may replace some of those in the 128–255 range; this problem has mostly been resolved now that Unicode is widely used, because it provides a unique numeric identifier for each character. There were similar problems when transferring ANSI documents to DOS or Macintosh computers, because DOS and MacRoman arrange characters differently in the 128–255 range.
