@@ -14,7 +14,7 @@ ASCII, stands for American Standard Code for Information Interchange. It is a 7-
 
 </br>
 
-![ASCii Table](https://github.com/user-attachments/assets/700c8ea6-5a90-4814-a9fe-7e1c2f5c9616)
+<img src="https://github.com/user-attachments/assets/16f177cb-43d3-445c-af10-ab2cb6b4affa" />
 
 </br>
 
