@@ -17,7 +17,7 @@ ASCII, stands for American Standard Code for Information Interchange. It is a 7-
 <img src="https://github.com/user-attachments/assets/16f177cb-43d3-445c-af10-ab2cb6b4affa" />
 
 </br>
-
+</br>
 
 ASCII control characters (character code 0-31)
 The first 32 characters in the ASCII-table are unprintable control codes and are used to control peripherals such as printers.
