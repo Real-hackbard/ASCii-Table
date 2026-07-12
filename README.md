@@ -75,7 +75,7 @@ The characters that appear in the first column of the following table are genera
 
 </br>
 
-# Code example
+# :speech_balloon: Code example
 Source code of the C++ program which prints the ASCII table from 0 to 127. The C++ program is successfully compiled and run on a Linux system. The program output is also shown below.
 
 The program uses a while loop to go through every ASCII character from 0 to 127. ASCII character from 0 to 31 are control characters and are printed specially using an array of character strings, the characters from 32 to 126 are printed by using the character representation of the integer value and the character representation of 127 is printed using the character string “DEL”.
