@@ -65,8 +65,8 @@ The characters that appear in the first column of the following table are genera
 # Character sets
 * [Microsoft’s ANSI character set](https://www.alanwood.net/demos/ansi.html)
 * [Apple’s MacRoman character set](https://www.alanwood.net/demos/macroman.html)
-* Differences between ANSI, ISO-8859-1 and MacRoman
-* Microsoft’s Windows Glyph List 4 (WGL4)
+* [Differences between ANSI, ISO-8859-1 and MacRoman](https://www.alanwood.net/demos/charsetdiffs.html)
+* [Microsoft’s Windows Glyph List 4 (WGL4)](https://www.alanwood.net/demos/wgl4.html)
 * Symbol font – Unicode alternatives for Greek and special characters in HTML
 * Microsoft’s Webdings character set and Unicode equivalents
 * Microsoft’s Wingdings character set and Unicode equivalents
