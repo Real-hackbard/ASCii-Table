@@ -10,7 +10,7 @@
 
 </br>
 
-ASCII, stands for American Standard Code for Information Interchange. It is a 7-bit character code where each individual bit represents a unique character. This page shows the extended ASCII table which is based on the Windows-1252 character set which is an 8 bit ASCII table with 256 characters and symbols. It includes all ASCII codes from standard ASCII, and it is a superset of [ISO 8859-1](https://de.wikipedia.org/wiki/ISO_8859) in terms of printable characters. In the range 128 to 159 (hex 80 to 9F), ISO/IEC 8859-1 has invisible control characters, while Windows-1252 has writable characters. [Windows-1252](https://www.ascii-code.com/) is probably the most-used 8-bit character encoding in the world.
+ASCII, stands for [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII). It is a 7-bit character code where each individual bit represents a unique character. This page shows the extended ASCII table which is based on the Windows-1252 character set which is an 8 bit ASCII table with 256 characters and symbols. It includes all ASCII codes from standard ASCII, and it is a superset of [ISO 8859-1](https://de.wikipedia.org/wiki/ISO_8859) in terms of printable characters. In the range 128 to 159 (hex 80 to 9F), ISO/IEC 8859-1 has invisible control characters, while Windows-1252 has writable characters. [Windows-1252](https://www.ascii-code.com/) is probably the most-used 8-bit character encoding in the world.
 
 </br>
 
