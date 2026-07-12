@@ -45,5 +45,6 @@ The ANSI set of 217 characters, also known as Windows-1252, was the standard for
 <img src="https://github.com/user-attachments/assets/22a2c499-a205-4497-95d7-bae9b34e5db3" />
 
 </br>
+</br>
 
-If you use an old, non-Unicode version of Windows that was designed for a [non-Latin alphabet](https://www.alanwood.net/demos/ansi.html#nonlatin) such as Arabic, Cyrillic, Greek, Hebrew or Thai to view a document that has been typed using the ANSI character set, then characters from these languages may replace some of those in the 128–255 range; this problem has mostly been resolved now that Unicode is widely used, because it provides a unique numeric identifier for each character. There were similar problems when transferring ANSI documents to DOS or Macintosh computers, because DOS and MacRoman arrange characters differently in the 128–255 range.
+If you use an old, non-Unicode version of Windows that was designed for a [non-Latin alphabet](https://www.alanwood.net/demos/ansi.html#nonlatin) such as Arabic, Cyrillic, Greek, Hebrew or Thai to view a document that has been typed using the ANSI character set, then characters from these languages may replace some of those in the 128–255 range; this problem has mostly been resolved now that Unicode is widely used, because it provides a unique numeric identifier for each character. There were similar problems when transferring ANSI documents to DOS or Macintosh computers, because DOS and [MacRoman](https://www.alanwood.net/demos/macroman.html) arrange characters differently in the 128–255 range.
