@@ -71,4 +71,4 @@ The characters that appear in the first column of the following table are genera
 * [Microsoft’s Webdings character set and Unicode equivalents](https://www.alanwood.net/demos/webdings.html)
 * [Microsoft’s Wingdings character set and Unicode equivalents](https://www.alanwood.net/demos/wingdings.html)
 * [Microsoft’s Wingdings 2 character set and Unicode equivalents](https://www.alanwood.net/demos/wingdings-2.html)
-* Microsoft’s Wingdings 3 character set and Unicode equivalents
+* [Microsoft’s Wingdings 3 character set and Unicode equivalents](https://www.alanwood.net/demos/wingdings-3.html)
