@@ -22,6 +22,9 @@ ASCII, stands for American Standard Code for Information Interchange. It is a 7-
 ### Functions:
 * Keyboard Hook
 * Search Char
+* Unicode Export
+
+* </br>
 
 # ASCII
 
