@@ -29,7 +29,7 @@ Codes 32-127 are common for all the different variations of the ASCII table, the
 
 Our ASCII table is structured with rows for each character and columns for decimal, octal, hexadecimal, binary, symbol, HTML number, HTML entities, and description, making it the most comprehensive and user-friendly resource available.
 
-Each row of our ASCII table displays a unique character or symbol, with corresponding information in the columns. The decimal column shows the numerical value of each character, ranging from 0 to 255. The octal and hexadecimal columns provide additional numeric representations of each character. The binary column shows the binary value of each character, represented by a 8-digit number between 00000000 and 11111111.
+Each row of our ASCII table displays a unique character or symbol, with corresponding information in the columns. The decimal column shows the numerical value of each character, ranging from 0 to 255. The octal and hexadecimal columns provide additional numeric representations of each character. The binary column shows the binary value of each character, represented by a 8-digit number between ```00000000``` and ```11111111```.
 
 Our ASCII table also includes columns for symbol, HTML number, and HTML entities. This information is incredibly useful for web developers and designers, as it allows them to easily use ASCII characters and symbols in their HTML code.
 
