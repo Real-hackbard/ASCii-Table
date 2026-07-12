@@ -73,6 +73,8 @@ The characters that appear in the first column of the following table are genera
 * [Microsoft’s Wingdings 2 character set and Unicode equivalents](https://www.alanwood.net/demos/wingdings-2.html)
 * [Microsoft’s Wingdings 3 character set and Unicode equivalents](https://www.alanwood.net/demos/wingdings-3.html)
 
+</br>
+
 # Code example
 Source code of the C++ program which prints the ASCII table from 0 to 127. The C++ program is successfully compiled and run on a Linux system. The program output is also shown below.
 
