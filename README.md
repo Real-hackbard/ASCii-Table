@@ -19,6 +19,10 @@ ASCII, stands for American Standard Code for Information Interchange. It is a 7-
 </br>
 </br>
 
+### Functions:
+* Keyboard Hook
+* Search Char
+
 # ASCII
 
 ASCII control characters (character code 0-31)
