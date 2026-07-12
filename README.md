@@ -24,7 +24,7 @@ ASCII, stands for American Standard Code for Information Interchange. It is a 7-
 * Search Char
 * Unicode Export
 
-* </br>
+</br>
 
 # ASCII
 
